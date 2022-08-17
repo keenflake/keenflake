@@ -3,7 +3,7 @@
 Hey there 👋
 
 My name is Aleksey Kuznetsov, I'm a Software Engineer focused on web technologies and creating accessible UIs.
-Besides, I have a bachelor's and master degree in Computer Science — software engineering and web technologies, respectively.
+Besides, I hold a bachelor's and master's degree in Computer Science — software engineering and web technologies, respectively.
 
 ## Bio
 
@@ -24,3 +24,11 @@ Here's a list of technologies I'm somewhat experienced in:
 - Frameworks / libraries: React.js, Next.js, Angular
 - CI/CD: GitHub Actions, CircleCI
 - Services: Auth0, Vercel
+
+## Contacts
+
+If you're willing to contact me, feel free to:
+
+- Email me at [aleksey.kuznetsoff@outlook.com](mailto:aleksey.kuznetsoff@outlook.com)
+- Connect at [LinkedIn](https://www.linkedin.com/in/alekseyio)
+- Message me at [Telegram](https://t.me/alekseyio)
